@@ -12,9 +12,7 @@ import Carousel from 'react-bootstrap/Carousel';const Cards=()=>{
           <h4>It is easier to entrust the network the work to the <br />
           experts because they are able to provide  the best <br /> results with reliable quality.</h4>
         </div>
-    
-
-
+  
 {/*        
       <Row>
         <Col>1 of 3</Col>
