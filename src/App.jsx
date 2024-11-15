@@ -6,14 +6,12 @@ import Contact from "./components/Contact"
 import Cards from "./components/Cards"
 import Skills from "./components/Skills"
 
+
 const App=()=> {
  
-
   return (
     <>
-   
-       <BrowserRouter>
-               
+        <BrowserRouter>
               <Routes>
                 <Route path="/" element={<Layout/>}>
                 <Route index element={<Home/>}/>
@@ -22,12 +20,12 @@ const App=()=> {
                 <Route path="contact" element={<Contact/>}/>
                 <Route path="cards" element={<Cards/>}/>
                 <Route path="Skills" element={<Skills/>}/>
+               
                 </Route>
               </Routes>
-       </BrowserRouter>
-          
+       </BrowserRouter>     
     </>
   )
 }
 
-export default App
+export default App;

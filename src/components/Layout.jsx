@@ -9,7 +9,7 @@ const Layout=()=>
 
        <Container>
         <div>
-       <Navbar bg="primary" data-bs-theme="dark">
+       <Navbar bg="secodary" data-bs-theme="red">
         <Container>
           <Navbar.Brand href="#home">Navbar</Navbar.Brand>
           <Nav className="me-auto">
@@ -21,7 +21,7 @@ const Layout=()=>
           </Nav>
         </Container>
       </Navbar>
-   <div style={{height:"450px"}}>
+   <div style={{height:"550px"}}>
         
         <Outlet/>
 
