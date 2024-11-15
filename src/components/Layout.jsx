@@ -6,7 +6,6 @@ const Layout=()=>
 {
     return(
         <>
-
        <Container>
         <div>
        <Navbar bg="secodary" data-bs-theme="red">
