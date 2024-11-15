@@ -5,7 +5,6 @@ import Image from 'react-bootstrap/Image';
 
 import Button from 'react-bootstrap/Button';
 
-
 const Home=()=>{
  
   
