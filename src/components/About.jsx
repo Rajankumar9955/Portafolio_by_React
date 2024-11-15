@@ -6,8 +6,6 @@ import Image from 'react-bootstrap/Image';
 const About=()=>{
     return(
         <>
-        
-        
         <Container>
           <div id='about'>
         <Row>
