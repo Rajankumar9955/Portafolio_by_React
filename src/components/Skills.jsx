@@ -54,6 +54,7 @@ const Skills=()=>{
             </ul>
         </ul>
 
+
            </div>
          </Col>
 
