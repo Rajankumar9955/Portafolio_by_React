@@ -21,7 +21,6 @@ const About=()=>{
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, iure dolor commodi aperiam nihil unde soluta quae delectus explicabo quas officiis aliquam quia impedit expedita assumenda iusto natus omnis laudantium!
  
-
         </p>
         </div> 
         
